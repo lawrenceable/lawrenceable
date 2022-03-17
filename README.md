@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lawrence
+- 👋 Hi, I’m @Lawrence Zawahri
 - 👀 I’m interested in algorithm, datastructures, databases and computer networks. 
 - 🌱 I’m currently learning Java development
 - 💞️ I’m looking to collaborate on any Java projects
